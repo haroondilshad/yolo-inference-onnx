@@ -1,0 +1,13 @@
+What to Submit
+• Video Link or File: Your full walkthrough.
+• Short Written Summary:
+• How you set up your environment.
+• Which Al tools you used and how they helped.
+• Your steps for PyTorch inference, ONNX conversion, and ONNX inference.
+• A brief note on the outputs you observed (e.g., detected objects, bounding boxes).
+Evaluation Criteria for AI.SEE
+• Completeness: Did you successfully run inference in both PyTorch and ONNX?
+• Environment Setup: How well did you configure everything from scratch?
+• Al Tool Usage: How effectively you use Al-assisted coding.
+• Clarity of Explanation: The detail and clarity in your "think aloud" process.
+• Correctness of Outputs: Are the bounding boxes/labels (or any other output) sensible?
